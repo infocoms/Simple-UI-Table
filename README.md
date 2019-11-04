@@ -6,4 +6,4 @@ HTML
 CSS (bootsrap)
 
 # Image
-![](Img/table.png)
+![](table.png)
