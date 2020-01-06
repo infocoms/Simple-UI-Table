@@ -2,7 +2,7 @@
 a simple html/css exercise displaying a table with buttons on the bottom
 
 # Languages & libraries used
-HTML
+HTML,
 CSS (bootsrap)
 
 # Image
